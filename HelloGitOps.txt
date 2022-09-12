@@ -1,0 +1,12 @@
+HelloGitOps.java: 
+
+public class HelloGitOps {
+
+    public static void main(String[] args){
+
+        System.out.println("Hello GitOps!");
+
+    }
+
+}
+软件2班王健2021108320119
